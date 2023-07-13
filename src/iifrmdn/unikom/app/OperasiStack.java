@@ -19,7 +19,7 @@ public class OperasiStack {
             System.out.println(cheater_pubgm);
         }
 
-        System.out.println("\nOperasi pop()");
+        System.out.println("\nOperasi pop() mengambil dan menghapus");
         System.out.println(top_cheater_pubgm.pop());
 
         System.out.println("\nSetelah operasi pop()");
